@@ -4,11 +4,11 @@ Telekinesis is a small Wordpress plugin that allows remote updates on a website
 
 ### Installation
 
-Dowload and install as you would do for a standard Wordpress plugin
+Download the repo and install as you would do for a standard Wordpress plugin
 
 ### Configuration
 
-Access /wp-admin/tools.php?page=telekinesis or Tools -> Telekinesis and set up a secret key.
+Access `/wp-admin/tools.php?page=telekinesis` or  Tools -> Telekinesis and set up a secret key.
 
 ### Usage
 
